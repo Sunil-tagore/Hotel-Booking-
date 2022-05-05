@@ -1,2 +1,2 @@
 # Hotel-Booking-
-Predicting whether a Hotel is Booked Successfully or not
+Predicting whether a Hotel Booking is Canceled or not
